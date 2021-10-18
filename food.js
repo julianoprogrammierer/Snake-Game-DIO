@@ -25,4 +25,4 @@ function getRandomFoodPosition() {
     newFoodPosition = randomGridPosition();
   };
   return newFoodPosition;
-};
+};// teste
